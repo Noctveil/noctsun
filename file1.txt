@@ -5,3 +5,4 @@ commit test1
 101112
 Add line
 new branch line
+new
